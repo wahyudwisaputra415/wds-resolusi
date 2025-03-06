@@ -1,0 +1,4 @@
+WDS RESOLUSI
+- Menjadi seorang Programmer Profesional
+- Belajar bahasa Pemrograman Python untuk membuat Artificial Intelligence (AI)
+- Menggunakan Code Editor Visual Studio Code untuk membuat Program
