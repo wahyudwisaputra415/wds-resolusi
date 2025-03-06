@@ -2,6 +2,6 @@ RENCANA BAHASA WDS
 - Java
   * Aplikasi Web
   * Aplikasi Android
-    > Transportasi
-    > Produktifitas
+    > ecommerce
+    > Bisnis
 - C++
