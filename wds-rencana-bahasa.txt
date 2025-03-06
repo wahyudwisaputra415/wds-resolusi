@@ -2,4 +2,5 @@ RENCANA BAHASA WDS
 - Java
   * Aplikasi Web
   * Aplikasi Android
+- JavaScript
 - C++
