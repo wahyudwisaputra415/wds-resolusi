@@ -4,5 +4,4 @@ RENCANA BAHASA WDS
   * Aplikasi Android
     > ecommerce
     > Bisnis
-- JavaScript
 - C++
